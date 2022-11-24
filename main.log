@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.11.23)  23 NOV 2022 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.11.23)  24 NOV 2022 10:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -676,24 +676,24 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 80.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 80.
- (/home/hbirch/Documents/UMich_Prelim_prospectus/main.toc)
+ (/home/hbirch/Documents/UMich_Prelim_prospectus/main.toc [2])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2] (/home/hbirch/Documents/UMich_Prelim_prospectus/main.lof)
+ [3] (/home/hbirch/Documents/UMich_Prelim_prospectus/main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [3] (/home/hbirch/Documents/UMich_Prelim_prospectus/main.lot)
+ [4] (/home/hbirch/Documents/UMich_Prelim_prospectus/main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [4] [5]
+ [5] [6]
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
 
  []
 
-(/home/hbirch/Documents/UMich_Prelim_prospectus/front_materials/abstract.tex) [6] (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/example_chapter_01.tex
+(/home/hbirch/Documents/UMich_Prelim_prospectus/front_materials/abstract.tex) [7] (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/Introduction.tex
 CHAPTER 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 1.
@@ -703,61 +703,75 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 20.74pt on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 20.74pt on input line 1.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.8pt on input line 10.
-Package acronym Info: Label `acro:TLA' newly defined as it shall be overridden
-although it is yet undefined on input line 12.
-Package acronym Info: Label `acro:SOA' newly defined as it shall be overridden
-although it is yet undefined on input line 12.
-[1
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/DM_Overview.tex [1
 
 ]
-<chapters/figures/the_big_house.jpeg, id=122, 192.72pt x 127.9179pt>
-File: chapters/figures/the_big_house.jpeg Graphic file (type jpg)
-<use chapters/figures/the_big_house.jpeg>
-Package pdftex.def Info: chapters/figures/the_big_house.jpeg  used on input line 44.
-(pdftex.def)             Requested size: 192.71951pt x 127.91757pt.
-) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/example_chapter_99.tex [2] [3 </home/hbirch/Documents/UMich_Prelim_prospectus/chapters/figures/the_big_house.jpeg>]
 CHAPTER 2.
-File: chapters/figures/the_big_house.jpeg Graphic file (type jpg)
-<use chapters/figures/the_big_house.jpeg>
-Package pdftex.def Info: chapters/figures/the_big_house.jpeg  used on input line 8.
-(pdftex.def)             Requested size: 192.71951pt x 127.91757pt.
-) [4
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/PhysicsTopic.tex [2
+
+]
+CHAPTER 3.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/LZ_Exp.tex [3
+
+]
+CHAPTER 4.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/OCS.tex [4
+
+]
+CHAPTER 5.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/SPhE.tex [5
+
+]
+CHAPTER 6.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/OD_Topology.tex [6
+
+]
+CHAPTER 7.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/Muons.tex [7
+
+]
+CHAPTER 8.
+) (/home/hbirch/Documents/UMich_Prelim_prospectus/chapters/Conclusion.tex [8
+
+]
+CHAPTER 9.
+) [9
 
 ] (/home/hbirch/Documents/UMich_Prelim_prospectus/main.bbl
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 11.
+
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
- [5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 103.
+ [10
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 103.
  (/home/hbirch/Documents/UMich_Prelim_prospectus/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FF7A24A0B0D7ADBDED0AC575A614765C;568.
+(rerunfilecheck)             Checksum: 1518FD8A7D9BAB4806988C9CB256A0AA;2370.
  ) 
 Here is how much of TeX's memory you used:
- 12910 strings out of 481239
- 185321 string characters out of 5920376
- 460849 words of memory out of 5000000
- 27852 multiletter control sequences out of 15000+600000
- 579573 words of font info for 69 fonts, out of 8000000 for 9000
+ 12943 strings out of 481239
+ 186033 string characters out of 5920376
+ 460436 words of memory out of 5000000
+ 27845 multiletter control sequences out of 15000+600000
+ 573977 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,11n,79p,885b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb>
-Output written on /home/hbirch/Documents/UMich_Prelim_prospectus/main.pdf (12 pages, 283258 bytes).
+ 56i,12n,50p,885b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb>
+Output written on /home/hbirch/Documents/UMich_Prelim_prospectus/main.pdf (18 pages, 75237 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 299 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,12 +1,38 @@
-\contentsline {frontchapter}{List of Figures}{iii}{section*.2}%
-\contentsline {frontchapter}{List of Tables}{iv}{section*.3}%
-\contentsline {frontchapter}{List of Acronyms}{v}{section*.4}%
-\contentsline {frontchapter}{Abstract}{vi}{section*.5}%
+\contentsline {frontchapter}{List of Figures}{iv}{section*.2}%
+\contentsline {frontchapter}{List of Tables}{v}{section*.3}%
+\contentsline {frontchapter}{List of Acronyms}{vi}{section*.4}%
+\contentsline {frontchapter}{Abstract}{vii}{section*.5}%
 \vspace {3.9ex}\noindent {\uppercase {Chapter}}\vspace {1.3ex}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Example Section}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Example Tables}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Example Figure}{2}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Conclusion}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Dark Matter Overview}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Observational evidence for dark matter}{2}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Avoiding dark matter}{2}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Possible dark matter candidates}{2}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Searching for dark matter}{2}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Current status for dark matter searches}{2}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Physics Topics}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Muons}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Muons Underground}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Muon Induced Backgrounds}{3}{section.3.3}%
+\contentsline {chapter}{\numberline {4}LUX-ZEPLIN Dark Matter Experiment}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Overview}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Particle-Xenon interaction within a TPC}{4}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Veto system}{4}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Outer Detector Construction (Nov20 - Apr21)}{4}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Outer Detector Optical Calibration System}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System overview}{5}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Single Photon Electron Calibration and Monitoring}{6}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Analysis and Calibration}{6}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Monitoring through SR1}{6}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Outer Detector Topology Studies}{7}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Local-Distant Asymmetry}{7}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Top-Bottom Asymmetry}{7}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Muon Analysis}{8}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Muon Rate During SR1}{8}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Analysis}{8}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Livetime Impact}{8}{subsection.8.1.2}%
+\contentsline {section}{\numberline {8.2}Muon Simulations}{8}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Muon Flux Measurement}{8}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Conclusion}{9}{chapter.9}%
 \vspace {1.3ex}
-\contentsline {backchapter}{Bibliography}{5}{section*.11}%
+\contentsline {backchapter}{Bibliography}{10}{section*.6}%
